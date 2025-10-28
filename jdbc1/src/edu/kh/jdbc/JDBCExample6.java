@@ -71,10 +71,7 @@ public class JDBCExample6 {
 				if(sc != null) sc.close();
 			} catch (Exception e2) {
 				e2.printStackTrace();
-			}
-			
+			}	
 		}
-
 	}
-
 }

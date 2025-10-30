@@ -17,7 +17,7 @@ public class LoadXMLFile {
 		try {
 			Properties prop = new Properties();
 			
-			// drivdr.xml 파일을 읽기위한 InputStream 객체 생성
+			// driver.xml 파일을 읽기위한 InputStream 객체 생성
 			fis = new FileInputStream("driver.xml");
 			
 			// 연결된 driver.xml 파일에 있는
